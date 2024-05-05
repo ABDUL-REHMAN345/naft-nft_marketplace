@@ -24,13 +24,13 @@ To install **NAFT**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/naft-nft_marketplace.git
+sudo git clone https://github.com/ABDUL-REHMAN345/naft-nft_marketplace.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/naft-nft_marketplace.git
+git clone https://github.com/ABDUL-REHMAN345/naft-nft_marketplace.git
 ```
 
 ## Contact
